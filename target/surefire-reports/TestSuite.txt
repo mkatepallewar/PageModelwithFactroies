@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 63.455 s <<< FAILURE! - in TestSuite
+com.w2a.testcases.FlightSearchTest.flightSearchTest  Time elapsed: 41.514 s  <<< FAILURE!
+java.lang.AssertionError: expected [6] but found [5]
+	at com.w2a.testcases.FlightSearchTest.flightSearchTest(FlightSearchTest.java:32)
+

@@ -1,0 +1,37 @@
+DEBUG	2019-12-26 10:08:34,875	0	freemarker.cache	[main]	Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG	2019-12-26 10:08:34,876	1	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+DEBUG	2019-12-26 10:08:34,877	2	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG	2019-12-26 10:08:34,878	3	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG	2019-12-26 10:08:34,878	3	freemarker.cache	[main]	Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish_Katepallewar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+DEBUG	2019-12-26 10:08:38,177	3302	devpinoyLogger	[main]	Launching Chrome
+DEBUG	2019-12-26 10:08:48,534	13659	devpinoyLogger	[main]	Clicking on : [[ChromeDriver: chrome on XP (1e548706889e3c408e71a981b931db59)] -> css selector: #header-account-menu]
+DEBUG	2019-12-26 10:08:48,689	13814	devpinoyLogger	[main]	Clicking on : [[ChromeDriver: chrome on XP (1e548706889e3c408e71a981b931db59)] -> css selector: #account-signin]
+DEBUG	2019-12-26 10:08:50,796	15921	devpinoyLogger	[main]	Typing [[ChromeDriver: chrome on XP (1e548706889e3c408e71a981b931db59)] -> css selector: #gss-signin-email] entered value as mp_apr81@outlook.com
+DEBUG	2019-12-26 10:08:50,983	16108	devpinoyLogger	[main]	Typing [[ChromeDriver: chrome on XP (1e548706889e3c408e71a981b931db59)] -> css selector: #gss-signin-password] entered value as Password_1234
+DEBUG	2019-12-26 10:08:51,094	16219	devpinoyLogger	[main]	Clicking on : [[ChromeDriver: chrome on XP (1e548706889e3c408e71a981b931db59)] -> css selector: #gss-signin-submit]
+DEBUG	2019-12-26 10:08:52,107	17232	freemarker.cache	[main]	Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG	2019-12-26 10:08:52,107	17232	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+DEBUG	2019-12-26 10:08:52,108	17233	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG	2019-12-26 10:08:52,108	17233	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG	2019-12-26 10:08:52,108	17233	freemarker.cache	[main]	Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish_Katepallewar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+DEBUG	2019-12-26 10:08:53,022	18147	freemarker.cache	[main]	Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG	2019-12-26 10:08:53,022	18147	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+DEBUG	2019-12-26 10:08:53,022	18147	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG	2019-12-26 10:08:53,023	18148	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG	2019-12-26 10:08:53,023	18148	freemarker.cache	[main]	Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish_Katepallewar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+DEBUG	2019-12-26 10:08:55,343	20468	devpinoyLogger	[main]	Launching Chrome
+DEBUG	2019-12-26 10:09:04,114	29239	devpinoyLogger	[main]	Clicking on : [[ChromeDriver: chrome on XP (9d42a2147cfc433ccd0b92fa0302d96c)] -> css selector: #tab-flight-tab-hp > span.tab-label]
+DEBUG	2019-12-26 10:09:04,911	30036	devpinoyLogger	[main]	Typing [[[[ChromeDriver: chrome on XP (9d42a2147cfc433ccd0b92fa0302d96c)] -> css selector: .hero-banner-box.siteId-27.cf.hideClassicDcol]] -> css selector: #flight-origin-hp-flight] entered value as Bengaluru, India (BLR-Kempegowda Intl.)
+DEBUG	2019-12-26 10:09:05,490	30615	devpinoyLogger	[main]	Typing [[ChromeDriver: chrome on XP (9d42a2147cfc433ccd0b92fa0302d96c)] -> css selector: #flight-destination-hp-flight] entered value as Pune, India (PNQ-Lohegaon)
+DEBUG	2019-12-26 10:09:05,724	30849	devpinoyLogger	[main]	Typing [[ChromeDriver: chrome on XP (9d42a2147cfc433ccd0b92fa0302d96c)] -> css selector: #flight-departing-hp-flight] entered value as 14/01/2020
+DEBUG	2019-12-26 10:09:05,918	31043	devpinoyLogger	[main]	Typing [[ChromeDriver: chrome on XP (9d42a2147cfc433ccd0b92fa0302d96c)] -> css selector: #flight-returning-hp-flight] entered value as 20/01/2020
+DEBUG	2019-12-26 10:09:06,034	31159	devpinoyLogger	[main]	Clicking on : [[ChromeDriver: chrome on XP (9d42a2147cfc433ccd0b92fa0302d96c)] -> css selector: #traveler-selector-hp-flight > div > ul > li > button]
+DEBUG	2019-12-26 10:09:06,188	31313	devpinoyLogger	[main]	Clicking on : [[ChromeDriver: chrome on XP (9d42a2147cfc433ccd0b92fa0302d96c)] -> css selector: #traveler-selector-hp-flight > div > ul > li > div > div > div > div.uitk-grid.step-input-outside.gcw-component.gcw-component-step-input.gcw-step-input.gcw-component-initialized > div:nth-child(4) > button > span.uitk-icon > svg]
+DEBUG	2019-12-26 10:09:06,315	31440	devpinoyLogger	[main]	Clicking on : [[ChromeDriver: chrome on XP (9d42a2147cfc433ccd0b92fa0302d96c)] -> css selector: #traveler-selector-hp-flight > div > ul > li > div > div > div > div.children-wrapper > div.uitk-grid.step-input-outside.gcw-component.gcw-component-step-input.gcw-step-input.gcw-component-initialized > div:nth-child(4) > button > span.uitk-icon > svg]
+DEBUG	2019-12-26 10:09:06,427	31552	devpinoyLogger	[main]	Typing [[ChromeDriver: chrome on XP (9d42a2147cfc433ccd0b92fa0302d96c)] -> css selector: #flight-age-select-1-hp-flight] entered value as 3.0
+DEBUG	2019-12-26 10:09:21,394	46519	devpinoyLogger	[main]	Clicking on : Proxy element for: AjaxElementLocator 'By.cssSelector: #gcw-flights-form-hp-flight > div.cols-nested.ab25184-submit > label > button'
+DEBUG	2019-12-26 10:09:36,005	61130	freemarker.cache	[main]	Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG	2019-12-26 10:09:36,005	61130	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+DEBUG	2019-12-26 10:09:36,006	61131	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG	2019-12-26 10:09:36,006	61131	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG	2019-12-26 10:09:36,006	61131	freemarker.cache	[main]	Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish_Katepallewar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

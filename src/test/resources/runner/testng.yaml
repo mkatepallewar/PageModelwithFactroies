@@ -1,0 +1,16 @@
+name: PageObjectModel factories
+configFailurePolicy: skip
+listeners:
+  - com.w2a.errorcollectors.TestListenerAdapter
+  - org.uncommons.reportng.HTMLReporter
+  - org.uncommons.reportng.JUnitXMLReporter
+  - com.w2a.listeners.CustomListners
+tests:
+  - name: SignInTest
+  classes:
+    - com.w2a.testcases.SignInTest
+
+  - name: LoginTest
+  classes:
+    - com.w2a.testcases.FlightSearchTest
+
